@@ -78,7 +78,7 @@
 ## 📜 Certifications
 
 * ISTQB Certified Tester – Foundation Level (2024)
-* SQL (Basics) Certificate — HackerRank (2024)
+* SQL Advance Certificate — HackerRank (2024)
 * API Testing Foundation — LinkedIn Learning (2024)
 
 ---
