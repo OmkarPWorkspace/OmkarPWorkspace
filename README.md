@@ -73,17 +73,15 @@ ISTQB-certified SDET with nearly 4 years of experience designing and scaling tes
 
 ## 📜 Certifications
 
-![ISTQB Certified](https://img.shields.io/badge/ISTQB-Certified%20Tester%20Foundation%20Level-6A1B9A?style=flat-square)
 
 * ISTQB Certified Tester – Foundation Level (2024)
-* SQL (Basics) Certificate — HackerRank (2024)
+* SQL Advance Certificate — HackerRank (2024)
 * API Testing Foundation — LinkedIn Learning (2024)
 
 ---
 
 ## 🚀 Current Focus
 
-* Deepening expertise in **API and UI test automation**
 * Building proficiency in **Playwright and Appium**
 * Exploring **AI/LLM-driven testing** approaches
 * Strengthening **CI/CD and quality engineering practices**
@@ -92,5 +90,5 @@ ISTQB-certified SDET with nearly 4 years of experience designing and scaling tes
 
 ## 🎓 Education
 
-**Bachelor of Engineering (B.E.)** — Sinhgad Institute of Technology and Science, Pune
+**Bachelor of Engineering (B.E.)** — Savitribai Phule Pune University, Pune
 CGPA: 7.29 | 2021
