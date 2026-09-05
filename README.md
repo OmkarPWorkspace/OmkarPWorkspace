@@ -9,14 +9,12 @@
 
 ## 👨‍💻 About Me
 
-💼 Automation Test Engineer at **Wipro Linecraft AI Pvt. Ltd.**
-🎯 ISTQB-certified, with nearly 4 years designing and scaling test automation frameworks for enterprise-grade platforms
-🌱 Currently expanding into **Playwright, Appium, and AI/LLM-driven Test Automation**
+ISTQB-certified SDET with nearly 4 years of experience designing and scaling test automation frameworks for enterprise-grade platforms in Agile/Scrum environments. Currently working as an Automation Test Engineer at **Wipro Linecraft AI Pvt. Ltd.**, building BDD-driven UI automation and API test suites that reduce manual testing effort and support faster, more reliable releases.
 
-* 🔭 Working on **BDD-driven Selenium/Cucumber frameworks** and **RestAssured/Postman API test suites**
-* 🌱 Learning **Playwright, Appium & AI/LLM-driven Testing**
-* 💬 Ask me about **Selenium, Cucumber BDD, TestNG, RestAssured, Postman, Azure DevOps, SQL**
-* 📈 Automated **100+ business-critical test cases**, cutting manual regression effort by **50–60%**
+* 🔭 **Currently working on:** BDD-driven Selenium/Cucumber frameworks and RestAssured/Postman API test suites
+* 🌱 **Currently expanding into:** Playwright, Appium & AI/LLM-driven Test Automation
+* 💬 **Areas of expertise:** Selenium, Cucumber BDD, TestNG, RestAssured, Postman, Azure DevOps, SQL
+* 📈 **Impact:** Automated 100+ business-critical test cases, reducing manual regression effort by 50–60%
 
 ---
 
@@ -58,35 +56,36 @@
 
 ---
 
-## 💼 Experience Highlights
+## 📂 Featured Projects
 
-**Automation Test Engineer — Wipro Linecraft AI Pvt. Ltd.** *(Oct 2022 – Present)*
-*Key Projects: Micro Planning Tool · Execution Data Management*
+| Repository | Description |
+|---|---|
+| [AmazonBDD_R](https://github.com/OmkarPWorkspace/AmazonBDD_R) | BDD-based UI automation framework built with Selenium, Cucumber, and Java following the Page Object Model |
+| [Rest-assured-cucumber-automation](https://github.com/OmkarPWorkspace/Rest-assured-cucumber-automation) | API test automation framework combining RestAssured with Cucumber BDD for service-level testing |
 
-* Designed and maintained a BDD-based Selenium/Cucumber automation framework using Java & POM, automating **100+ business-critical test cases**
-* Reduced manual regression testing effort by **50–60%** through automation of high-frequency test scenarios
-* Built API test suites with RestAssured and Postman to validate service integrations and data accuracy across microservices
-* Integrated automation suites into Azure DevOps CI/CD pipelines for continuous execution and faster feedback
-* Reduced test flakiness through retry logic and stability improvements
-* Used GitHub Copilot to accelerate test script authoring
-* Performed SQL-based backend data validation across enterprise application modules
-* Led test planning, effort estimation, and risk-based prioritization across functional, integration, regression, and E2E testing
-* Managed defect lifecycle in JIRA and Azure DevOps, collaborating with developers on root-cause resolution
+---
+
+## 💼 Experience
+
+**Automation Test Engineer** @ **Wipro Linecraft AI Pvt. Ltd.** *(Oct 2022 – Present)* — Pune, India
 
 ---
 
 ## 📜 Certifications
 
+![ISTQB Certified](https://img.shields.io/badge/ISTQB-Certified%20Tester%20Foundation%20Level-6A1B9A?style=flat-square)
+
 * ISTQB Certified Tester – Foundation Level (2024)
-* SQL Advance Certificate — HackerRank (2024)
+* SQL (Basics) Certificate — HackerRank (2024)
 * API Testing Foundation — LinkedIn Learning (2024)
 
 ---
 
-## 🚀 What I'm Focusing On
+## 🚀 Current Focus
 
-* Deepening **API & UI test automation** expertise
-* Exploring **Playwright, Appium & AI/LLM-driven testing**
+* Deepening expertise in **API and UI test automation**
+* Building proficiency in **Playwright and Appium**
+* Exploring **AI/LLM-driven testing** approaches
 * Strengthening **CI/CD and quality engineering practices**
 
 ---
